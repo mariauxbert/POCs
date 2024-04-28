@@ -55,12 +55,12 @@ Welcome to the React Native Utils project! This repository contains utility func
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/mariauxbert/Biometric-Auth
+   git clone https://github.com/mariauxbert/POCs
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Biometric-Auth
+   cd Local-Auth
    ```
 
 3. Install dependencies using npm or yarn:
